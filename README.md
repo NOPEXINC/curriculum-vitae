@@ -98,7 +98,7 @@ HSBC, Bayer, Canon, Microsoft, Nestle, Unilever, Johnson &amp; Johnson, Kimberle
 
 ### Lead Developer, Moresoda Design Ltd, Bath, England
 
-September 2013 - Present
+February 2011 - September 2013
 
 #### Overview
 
