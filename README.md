@@ -57,8 +57,7 @@ External to the department, I provided regular operational updates to senior JWT
 
 HSBC, Bayer, Canon, Microsoft, Nestle, Unilever, Johnson &amp; Johnson, Kimberley Clarke, Falcon &amp; Associates.
 
-
-
+---
 
 ### Lead Developer, Moresoda Design Ltd, Bath, England
 
@@ -83,8 +82,7 @@ A selection of projects developed during my time at Moresoda:
 
 Del Monte, Um Bongo, Bisque Radiators, Clip Displays, Pomegreat, The Foodie Bugle.
 
-
-
+---
 
 ### Founder/Technical Lead, CKI Designs
 
