@@ -121,7 +121,22 @@ Del Monte, Um Bongo, Bisque Radiators, Clip Displays, Pomegreat, The Foodie Bugl
 
 ---
 
+### Technical lead, Viper Marketing &amp; Communication Group
+
+September 2008 - February 2011
+
+Joined the team at Viper Marketing & Communication Group as a consultant and technical lead for all web related projects. Responsibilities included the architecture, graphic design, development & deployment of all web sites as well as their integration with various content management systems.
+
+All website work carried out involved Object Oriented PHP, custom database design as well as version controlled deployment processes using Git.
+
+Clients include Cambridge Marketing College, Quantock Hills AONB, Avon Somerset Search & Rescue, Scottish Countryside Rangers Association as well as many others.
+
+
+---
+
 ### Founder/Technical Lead, CKI Designs
+
+January 2007 - February 2010
 
 Founded web development company based in Bath focused at providing web &amp; design services to media agencies. Specialities were in web sites &amp; print media that represented the ethos and spirit of the clients business.
 
