@@ -7,7 +7,7 @@ A hands on technical and development manager working in the digital advertising 
 
 Proven hands on coding experience with Object Oriented JS, HTML5 APIs, CSS3, Mobile responsive UIs, Canvas animation, third party API integration (eg Facebook, Twitter, etc), single page web applications, DevOps &amp; continuous integration.
 
-Proven management track record of delivering in regulated environments such as Banking and Pharmaceuticals. Such environments require exhaustive technical discovery, liaison &amp; approvals processes, external application security and penetration testing requirements and adherence to guidelines such as WCAG A &amp; AA, OWASP Top 10.
+Proven management track record of delivering projects for SMEs as well as for enterprise, which includes digital projects in highly regulated environments such as Banking and Pharmaceuticals. Such environments require exhaustive technical discovery, liaison &amp; approvals processes, external application security and penetration testing requirements and adherence to guidelines such as WCAG A &amp; AA, OWASP Top 10.
 
 -   **Technology &amp; Development Manager**
 
@@ -27,6 +27,43 @@ Proven management track record of delivering in regulated environments such as B
 -   [Homepage](http://christopherimrie.com)
 -   [Github](https://github.com/ckimrie)
 -   [Twitter](https://twitter.com/chrisimrie)
+
+---
+
+Skillset
+-------------------------
+
+-   **Programming Languages**
+
+    PHP, JavaScript, HTML5, CSS, Actionscript, MySQL, Objective C
+
+-   **Libraries, Frameworks &amp; Tools**
+
+    Zend Framework 2, CodeIgniter, CakePHP, Silex, Dojo, jQuery, RequireJS, Backbone, EmberJS, AngularJS, Grunt, Bower, Jasmine, PHPUnit, NodeJS, Express, PhantomJS
+    
+-   **Third party APIs (server &amp; client side)**
+
+    Facebook, Twitter, Instagram, Google Maps, Youtube, Flickr, Amazon Web Services, Azure, 
+    
+-   **Sysadmin, Hosting &amp; Infrastructure**
+
+    Linux remote admin, Amazon Web Services, Microsoft Azure  
+
+-   **Content Management Systems**
+
+    ExpressionEngine, WordPress, Magento, Craft, TeamSite, Drupal, SDL Tridion
+
+-   **Web Programming Environments**
+
+    PHPStorm, Sublime Text 2, Eclipse, XCode, TextMate, Coda, Adobe Dreamweaver (Former Certified Instructor), Adobe Flash, Flash Builder
+
+-   **Version Control**
+
+    Git, Mercurial
+
+-   **Graphic Design &amp; Publishing Software**
+
+    Adobe Photoshop (Former Certified Instructor), Illustrator (Former Certified Instructor), InDesign.
 
 ---
 
