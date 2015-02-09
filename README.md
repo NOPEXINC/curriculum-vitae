@@ -1,7 +1,7 @@
 Christopher Imrie
 =================
 
-### Curriculem Vitae
+### Curriculum Vitae
 
 A hands on technical and development manager working in the digital advertising industry. With a background as a full stack developer (LAMP) and a senior javascript developer, I now champion digital and lead a team of developers, system administrators and consultants at one of the largest advertising agencies in London.
 
