@@ -24,25 +24,14 @@ Proven management track record of delivering in regulated environments such as B
 
 ### Links
 
--   Homepage
-
-    http://christopherimrie.com
-    
--   Github
-
-    https://github.com/ckimrie
-
--   Twitter
-
-    https://twitter.com/chrisimrie
+-   [Homepage](http://christopherimrie.com)
+-   [Github](https://github.com/ckimrie)
+-   [Twitter](https://twitter.com/chrisimrie)
 
 ---
 
 Experience
 ----------
-
-
-
 
 ### Head of Technology, J. Walter Thompson, London, England
 
