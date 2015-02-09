@@ -209,6 +209,15 @@ Some examples:
 
 ---
 
+Speaking &amp; Presentations
+--------
+
+- EEUK.13 - Boundaries &amp; Ideas, May 2013 ([View presentation](https://speakerdeck.com/chrisimrie/eeuk-dot-13-boundaries-and-ideas))
+- EECI US - ExpressionEngine &amp; the Web Agency, October 2012 ([View presentation](https://speakerdeck.com/chrisimrie/eeci-2012-us-ee-and-web-agency))
+- EECI EU - Live Content: Finding new ways to publish, May 2011 ([View presentation](http://www.slideshare.net/ckimrie/live-content-finding-new-ways-to-publish)) 
+
+---
+
 Languages
 ---------
 
