@@ -21,7 +21,6 @@ Proven management track record of delivering projects for SMEs as well as for en
 
     As an Adobe Certified Instructor I delivered Adobe certified training courses throughout England at introductory, intermediate and advanced levels for software such as Adobe Photoshop, Illustrator, InDesign, Dreamweaver &amp; Flash. I also delivered bespoke training sessions on topics such as HTML5 &amp; Javascript, PHP, MySQL and CSS.
 
-
 ### Links
 
 -   [Homepage](http://christopherimrie.com)
@@ -90,6 +89,30 @@ Managed a team that consisted of full stack, front end, back end, technical cons
 
 External to the department, I provided regular operational updates to senior JWT management as well as clients.
 
+#### A selection of projects delivered during my time at JWT London:
+
+-   **94 country EMEA campaign &amp; product launch site for Canon**
+
+    The site serves as the campaign center for Canon's planned 3 year 'Come and See' campaign. The site also served as the launch platform for 8 new products, a video resource for photographers as well as a place to learn more about the incredible video footage found in the ATL campaign. The site is fully internationalised for EMEA by being built for 94 different regional cultures (includes 19 languages) at launch. The launch itself involved a fully integrated process that involved web, social, experiential, print and TV.
+
+    https://comeandsee.canon-europe.com
+
+-   **Mobile first, Arabic and China Firewall detection for Falcon and Associates**
+    
+    Delivered a multi lingual, mobile responsive site for Falcon and Associates as technical lead. The site can switch between English, Chinese and Arabic - a RTL language. These features were coupled with an innovative Dubai skyline panorama feature, a clean design, an automated asset optimisation and build pipeline process as well as a custom China Firewall detection technique that swaps embedded Vimeo videos for alternates that are viewable in China.
+
+    http://www.falconandassociates.ae
+
+-   **Digital presence embodies the brand for KitKat**
+    
+    Delivered an excellent follow up to the very successful KitKat Android campaign. The new KitKat global website involved turning the website itself into a break for mobile visitors by incorporating a JS canvas ball maze game - with multiple levels and scores to share - into the website itself. Additionally the site served as a centre for all brand social activity across multiple countries. As the client was price conscious, a small team brainstormed ideas and delivered a working minimum viable product to the client within 72 hours. The client loved it and approved additional development and public release.
+
+    http://kitkat.com
+    
+-   **JWT London became a CDA for Bayer**
+
+    Personally attended and successfully completed the Bayer Certified Development program (graduating first in the class), making JWT London the only Certified Development Agency (CDA) in the JWT network for Bayer worldwide. The combining of this technical knowledge along with JWT London's strategic partnership with Bayer Consumer Care allowed JWT to more accurately plan and pitch digital work to Bayer, as well as ensure a higher quality of final delivery.
+
 #### Clients
 
 HSBC, Bayer, Canon, Microsoft, Nestle, Unilever, Johnson &amp; Johnson, Kimberley Clarke, Falcon &amp; Associates.
@@ -125,11 +148,11 @@ Del Monte, Um Bongo, Bisque Radiators, Clip Displays, Pomegreat, The Foodie Bugl
 
 September 2008 - February 2011
 
-Joined the team at Viper Marketing & Communication Group as a consultant and technical lead for all web related projects. Responsibilities included the architecture, graphic design, development & deployment of all web sites as well as their integration with various content management systems.
+Joined the team at Viper Marketing &amp; Communication Group as a consultant and technical lead for all web related projects. Responsibilities included the architecture, graphic design, development &amp; deployment of all web sites as well as their integration with various content management systems.
 
 All website work carried out involved Object Oriented PHP, custom database design as well as version controlled deployment processes using Git.
 
-Clients include Cambridge Marketing College, Quantock Hills AONB, Avon Somerset Search & Rescue, Scottish Countryside Rangers Association as well as many others.
+Clients include Cambridge Marketing College, Quantock Hills AONB, Avon Somerset Search &amp; Rescue, Scottish Countryside Rangers Association as well as many others.
 
 
 ---
