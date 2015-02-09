@@ -42,7 +42,7 @@ Skillset
     
 -   **Third party APIs (server &amp; client side)**
 
-    Facebook, Twitter, Instagram, Google Maps, Youtube, Flickr, Amazon Web Services, Azure, 
+    Facebook, Twitter, Instagram, Google Maps, Youtube, Flickr, Amazon Web Services, Azure
     
 -   **Sysadmin, Hosting &amp; Infrastructure**
 
