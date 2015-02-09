@@ -94,6 +94,46 @@ The company also expanded into providing white label web development services fo
     
 ---
 
+Open Source &amp; Side Projects
+---------------------------
+
+I consider personal development a very important part of my web career and that mainly manifests itself in me having various side projects that I work on in my own time in order to learn or gain experience with new technologies. Many times my side projects are collaborative efforts with developers around the globe and some times they become commercial ventures.
+
+Some examples:
+
+-   [Entry Analytics](http://devot-ee.com/add-ons/entry-analytics)
+    
+    Commercial add-on for ExpressionEngine that parses Google Analytics data in order to display content performance and allows authors to determine the value of an article (not a URL) when viewed as part of a whole site.
+
+-   [Site Manager](https://github.com/ckimrie/Site-Manager)
+    
+    Open Source add-on for migrating ExpressionEngine channels, fields &amp; categories between development, preview and production server environments
+
+-   [EE Debug Toolbar](https://github.com/mithra62/ee_debug_toolbar)
+
+    Open Source add-on for debugging ExpressionEngine template &amp; database performance during a site build. Features a full API that allows third party developers to integrate and show their own debugging data.
+    
+-   [CKSlider](https://github.com/ckimrie/ckslider)
+
+    General purpose content carousel/slider engine. Developed &amp; open sourced while working at Moresoda. Core requirements were to have a familiar, extensible and battle tested carousel that supported IE7+ and used Deferreds throughout its API.
+    
+-   [ExpressionEngine Data API](https://github.com/ckimrie/ee-data-api)
+
+    Drop in channel and entry data REST API for ExpressionEngine. Allows programmatic access to all entry data in JSON or XML formats. 
+
+-   Canvas oddities and experiments
+    
+    Some small hacks with Canvas and JS. All are short UI experiments coded in a single sitting over the course of a couple of hours based on a simple idea.
+
+    - [Asteroid physics experiments](http://goo.gl/aNb53k)
+    - [Diamond Geometry tessellation](http://jsbin.com/kadog/11)
+    - [Patterns in random motion](http://jsbin.com/cidov/2)
+    - [Mathematics visualisation](http://jsbin.com/oyecax/4)
+    - [Abstract orbits #1](http://jsbin.com/torol/5)
+    - [Abstract orbits #2](http://jsbin.com/torol/2)
+
+---
+
 Languages
 ---------
 
