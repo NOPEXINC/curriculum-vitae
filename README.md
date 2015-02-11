@@ -7,7 +7,7 @@ A hands on technical and development manager working in the digital advertising 
 
 Proven hands on coding experience with Object Oriented JS, HTML5 APIs, CSS3, Mobile responsive UIs, Canvas animation, third party API integration (eg Facebook, Twitter, etc), single page web applications, DevOps &amp; continuous integration.
 
-Proven management track record of delivering projects for SMEs as well as for enterprise, which includes digital projects in highly regulated environments such as Banking and Pharmaceuticals. Such environments require exhaustive technical discovery, liaison &amp; approvals processes, external application security and penetration testing requirements and adherence to guidelines such as WCAG A &amp; AA, OWASP Top 10.
+Established management track record of delivering projects for SMEs as well as for enterprise, including digital projects in highly regulated environments such as Banking and Pharmaceuticals. Such environments require exhaustive technical discovery, liaison &amp; approvals processes, external application security and penetration testing requirements and adherence to guidelines such as WCAG A &amp; AA, OWASP Top 10.
 
 -   **Technology &amp; Development Manager**
 
