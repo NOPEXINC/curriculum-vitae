@@ -23,7 +23,7 @@ Established management track record of delivering projects for SMEs as well as f
 
 ### Links
 
--   [Homepage](http://christopherimrie.com)
+-   [LinkedIn](https://uk.linkedin.com/in/christopherimrie)
 -   [Github](https://github.com/ckimrie)
 -   [Twitter](https://twitter.com/chrisimrie)
 
@@ -95,19 +95,19 @@ External to the department, I provided regular operational updates to senior JWT
 
     The site serves as the campaign center for Canon's planned 3 year 'Come and See' campaign. The site also served as the launch platform for 8 new products, a video resource for photographers as well as a place to learn more about the incredible video footage found in the ATL campaign. The site is fully internationalised for EMEA by being built for 94 different regional cultures (includes 19 languages) at launch. The launch itself involved a fully integrated process that involved web, social, experiential, print and TV.
 
-    https://comeandsee.canon-europe.com
+    [https://comeandsee.canon-europe.com](https://comeandsee.canon-europe.com)
 
 -   **Mobile first, Arabic and China Firewall detection for Falcon and Associates**
     
     Delivered a multi lingual, mobile responsive site for Falcon and Associates as technical lead. The site can switch between English, Chinese and Arabic - a RTL language. These features were coupled with an innovative Dubai skyline panorama feature, a clean design, an automated asset optimisation and build pipeline process as well as a custom China Firewall detection technique that swaps embedded Vimeo videos for alternates that are viewable in China.
 
-    http://www.falconandassociates.ae
+    [http://www.falconandassociates.ae](http://www.falconandassociates.ae)
 
 -   **Digital presence embodies the brand for KitKat**
     
     Delivered an excellent follow up to the very successful KitKat Android campaign. The new KitKat global website involved turning the website itself into a break for mobile visitors by incorporating a JS canvas ball maze game - with multiple levels and scores to share - into the website itself. Additionally the site served as a centre for all brand social activity across multiple countries. As the client was price conscious, a small team brainstormed ideas and delivered a working minimum viable product to the client within 72 hours. The client loved it and approved additional development and public release.
 
-    http://kitkat.com
+    [http://kitkat.com](http://kitkat.com)
     
 -   **JWT London became a CDA for Bayer**
 
@@ -200,7 +200,6 @@ Some examples:
     
     Some small hacks with Canvas and JS. All are short UI experiments coded in a single sitting over the course of a couple of hours based on a simple idea.
 
-    - [Asteroid physics experiments](http://goo.gl/aNb53k)
     - [Diamond Geometry tessellation](http://jsbin.com/kadog/11)
     - [Patterns in random motion](http://jsbin.com/cidov/2)
     - [Mathematics visualisation](http://jsbin.com/oyecax/4)
